@@ -206,6 +206,11 @@ img {
     background-color: #fec63e;
 }
 
+.produtos_lista li img{
+    margin: 0 auto;
+    text-align: center;
+ }
+
 .produtos_icone {
     background-color: black;
     padding: 20px;
